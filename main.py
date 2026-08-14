@@ -31,3 +31,12 @@ similarity = cos_sim(
 
 print(similarity)
 print(embeddings.shape)
+
+
+# Types
+# Sparse Embeding
+# spring
+# rooted
+# circular
+
+# 
